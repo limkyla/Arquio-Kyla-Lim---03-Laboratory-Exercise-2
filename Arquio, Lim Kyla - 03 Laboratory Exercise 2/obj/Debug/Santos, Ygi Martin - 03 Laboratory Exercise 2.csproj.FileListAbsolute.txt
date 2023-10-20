@@ -1,0 +1,11 @@
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\bin\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.exe.config
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\bin\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.exe
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\bin\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.pdb
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.csproj.AssemblyReference.cache
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Arquio__Lim_Kyla___03_Laboratory_Exercise_2.frmAddProduct.resources
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos__Ygi_Martin___03_Laboratory_Exercise_2.Properties.Resources.resources
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.csproj.GenerateResource.cache
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.exe
+C:\Users\Xeb\Desktop\Arquio, Lim Kyla - 03 Laboratory Exercise 2\obj\Debug\Santos, Ygi Martin - 03 Laboratory Exercise 2.pdb
